@@ -10,7 +10,7 @@
     "vs2015_runtime >=14.16.27012,<15.0a0",
     "pip"
   ],
-  "extracted_package_dir": "C:\\anaconda\\pkgs\\python-3.8.0-hff0d562_2",
+  "extracted_package_dir": "C:\\Users\\Sourav Mukherjee\\.conda\\pkgs\\python-3.8.0-hff0d562_2",
   "files": [
     "DLLs/_asyncio.pyd",
     "DLLs/_bz2.pyd",
@@ -3593,20 +3593,19 @@
     "tcl/tk86t.lib",
     "tcl/tkstub86.lib",
     "venvlauncher.exe",
-    "venvwlauncher.exe",
-    ".nonadmin"
+    "venvwlauncher.exe"
   ],
   "fn": "python-3.8.0-hff0d562_2.conda",
   "legacy_bz2_md5": "8663a5b7c4b55da83f3a12bb77fc0585",
   "legacy_bz2_size": 20526587,
   "license": "PSF",
   "link": {
-    "source": "C:\\anaconda\\pkgs\\python-3.8.0-hff0d562_2",
+    "source": "C:\\Users\\Sourav Mukherjee\\.conda\\pkgs\\python-3.8.0-hff0d562_2",
     "type": 1
   },
   "md5": "4f326212c0078f378aeae4b8dfb9605c",
   "name": "python",
-  "package_tarball_full_path": "C:\\anaconda\\pkgs\\python-3.8.0-hff0d562_2.conda",
+  "package_tarball_full_path": "C:\\Users\\Sourav Mukherjee\\.conda\\pkgs\\python-3.8.0-hff0d562_2.conda",
   "paths_data": {
     "paths": [
       {
